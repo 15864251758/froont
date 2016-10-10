@@ -507,12 +507,11 @@ a:link,a:visited{
 	margin: 0 auto;
 	margin-top: 48px;
 }
-.featured-content img{
-	width: 20%;
-	margin: 2.5%;
-	float: left;
-	height: 30px;
-	width: auto;
+.featured-content img {
+    margin: 2.5%;
+    float: left;
+    width: 20%;
+    max-height: 50px;
 }
 .featured-all{
 	margin: 0 auto;
