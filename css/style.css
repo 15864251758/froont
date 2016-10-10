@@ -613,6 +613,9 @@ a:link,a:visited{
 		margin: 0 auto;
 		float: none !important;
 	}
+	.animate-content h1{
+		margin-top: 20px;
+	}
 }
 
 
